@@ -1,0 +1,16 @@
+# Ignore IntelliJ IDEA project files
+
+
+.DS_Store
+Thumbs.db
+
+.idea/
+idea/*
+git/*
+.git/*
+
+file.txt
+
+*.log
+*.zip
+*.csv
